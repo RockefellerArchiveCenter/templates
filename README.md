@@ -33,4 +33,4 @@ Your name here!
 
 ## License
 
-Add license. Where possible, simply add `MIT-LICENSE.md` included in this repository in your repository as `LICENSE.md` and specify that the code is released under the MIT License.
+Add license. Where possible, specify that the code is released under the MIT License. Then edit `MIT-LICENSE.md` included in this repository to include the date and include it in your repository as `LICENSE.md`.
