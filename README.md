@@ -2,7 +2,7 @@
 
 Write a brief description of the project, explaining what it does in a couple of sentences.
 
-## Installation/Setup
+## Getting Started
 
 Describe the installation or setup process, using `inline code blocks` to indicate terminal commands.
 
