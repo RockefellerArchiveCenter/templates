@@ -41,9 +41,7 @@ This project uses the Python PEP8 community style guidelines. To conform to thes
 
 After locally installing pre-commit, install the git-hook scripts in the project's directory:
 
-    ```
     pre-commit install
-    ```  
 
 ##### Documentation
 
