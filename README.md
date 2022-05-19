@@ -51,9 +51,9 @@ This project adheres to [Google’s docstring style guide](https://google.github
 
 ##### Tests [Python Scripts]
 
-New code should  have unit tests. Tests are written in unittest style and run using [tox](https://tox.readthedocs.io/).
+New code should have unit tests. Tests are written in [unittest style](https://docs.python.org/3/library/unittest.html) and run using [tox](https://tox.readthedocs.io/).
 
 ##### Tests [Django Applications]
 
-New code should  have unit tests. Tests are written in unittest style and use the Django-provided [TestCase](https://docs.djangoproject.com/en/4.0/topics/testing/overview/). Tests are run using `manage.py`.
+New code should have unit tests. Tests are written in unittest style and use the Django-provided [TestCase](https://docs.djangoproject.com/en/4.0/topics/testing/overview/). Tests are run using `manage.py`.
 
